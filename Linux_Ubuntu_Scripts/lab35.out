@@ -1,0 +1,13 @@
+Script started on Sat 27 Mar 2021 11:50:37 PM EDT
+^[]0;farleyj3@lab:~/ncs205^G^[[?1034h[farleyj3@lab ncs205]$ ns^G^H^[[Kcs^G205−la
+b35−q01.sh
+Enter a number:4
+Enter a second number:6
+5 The product of the two numbers are: 24
+^[]0;farleyj3@lab:~/ncs205^G[farleyj3@lab ncs205]$ ncs205−lab35−q01.sh
+Enter a number:e
+Enter a second number:2
+Enter only integers.
+10 ^[]0;farleyj3@lab:~/ncs205^G[farleyj3@lab ncs205]$ exit
+exit
+Script done on Sat 27 Mar 2021 11:50:58 PM EDT
