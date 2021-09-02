@@ -1,0 +1,14 @@
+Script started on Sun 28 Mar 2021 10:40:30 AM EDT
+^[]0;farleyj3@lab:~/bin^G^[[?1034h[farleyj3@lab bin]$ ncs^G205−lab36−q02.sh ~/nc
+s205/Lab36/crti^G^H^[[K^G^H^[[Kitical ^H^[[K
+CRITICAL: critical âM−^@M−^S 2020−03−26 10:19:00 (367 days)
+^[]0;farleyj3@lab:~/bin^G[farleyj3@lab bin]$ ncs205−lab36−q02.sh ~/ncs205/Lab36/
+critical[K[K[K[K[K[K[K[Kwarning
+5 WARNING: warning − 2021−03−26 10:19:00 (48 hours)
+^[]0;farleyj3@lab:~/bin^G[farleyj3@lab bin]$ ncs205−lab36−q02.sh ~/ncs205/Lab36/
+warning^H^[[K^H^[[K^H^[[K^H^[[K^H^[[K^H^[[K^H^[[Kok
+OK: ok âM−^@M−^S 2021−03−27 10:19:00
+^[]0;farleyj3@lab:~/bin^G[farleyj3@lab bin]$ exit
+exit
+10
+Script done on Sun 28 Mar 2021 10:41:26 AM EDT
