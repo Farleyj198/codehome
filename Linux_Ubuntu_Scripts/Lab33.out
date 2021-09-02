@@ -1,0 +1,29 @@
+Script started on Wed 24 Mar 2021 10:05:08 PM EDT
+^[]0;farleyj3@lab:~/bin^G^[[?1034h[farleyj3@lab bin]$ ncs205−lab33−q05.sh^H^H^[[
+1P.sh^H1.sh^H^[[C^[[C^[[C^G a b c d e f g h i j
+1ST ARGUMENT: A
+2ND ARGUMENT: B
+5 3RD ARGUMENT: C
+4TH ARGUMENT: D
+5TH ARGUMENT: E
+6TH ARGUMENT: F
+7TH ARGUMENT: G
+10 8TH ARGUMENT: H
+9TH ARGUMENT: I
+^[]0;farleyj3@lab:~/bin^G[farleyj3@lab bin]$ ncs205−lab33−q05.sh^H^H^[[1P.sh^H2.
+sh^H^[[C^[[C^[[C 1 2 3 4 5 4 3 2 1
+Total Sum: 25
+^[]0;farleyj3@lab:~/bin^G[farleyj3@lab bin]$ ncs205−lab33−q05.sh^H^H^[[1P.sh^H3.
+sh^H^[[C^[[C^[[C 5 12
+15 The sum of the two intgers are: 17
+^[]0;farleyj3@lab:~/bin^G[farleyj3@lab bin]$ ncs205−lab33−q05.sh^H^H^[[1P.sh^H4.
+sh^H
+Enter a number:4
+Enter a second number:20
+The sum of the two numbers are: 24
+20 ^[]0;farleyj3@lab:~/bin^G[farleyj3@lab bin]$ ncs205−lab33−q05.sh ~/tou^H^[[K^H^[
+[Kestbin/
+Removed: test.txt
+^[]0;farleyj3@lab:~/bin^G[farleyj3@lab bin]$ exit
+exit
+25 Script done on Wed 24 Mar 2021 10:06:29 PM EDT
