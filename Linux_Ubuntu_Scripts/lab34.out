@@ -1,0 +1,37 @@
+Script started on Sun 28 Mar 2021 07:28:49 PM EDT
+^[]0;farleyj3@shell:~/bin^G^[[?1034h[farleyj3@shell bin]$ ncs^G205−lab34^G−q01.s
+h ~/testbin/1^H{1^H^[[C,2,3{^H^[[K}
+Are you sure you want to delete the $/home/farleyj3/testbin/1 file? (Y/N):t^H ^H
+y
+rm: cannot remove âM−^@M−^X/home/farleyj3/testbin/1âM−^@M−^Y: No such file or di
+rectory
+5 removed /home/farleyj3/testbin/1
+Are you sure you want to delete the $/home/farleyj3/testbin/2 file? (Y/N):n
+/home/farleyj3/testbin/2 was not removed
+Are you sure you want to delete the $/home/farleyj3/testbin/3 file? (Y/N):y
+rm: cannot remove âM−^@M−^X/home/farleyj3/testbin/3âM−^@M−^Y: No such file or di
+rectory
+10 removed /home/farleyj3/testbin/3
+^[]0;farleyj3@shell:~/bin^G[farleyj3@shell bin]$ s^H^[[Kncs^G205−lab34^G−q02.sh
+~/testbin/{}^H2}^H^H^[[1P}^H4}^H,}^H5}^H^[[C^H^H^[[C ~/testbin/{4,5}^H^H− ~/tes
+tbin/{4,5}^H^Hf ~/testbin/{4,5}^H^H
+rm: cannot remove âM−^@M−^X/home/farleyj3/testbin/4âM−^@M−^Y: No such file or di
+rectory
+removed /home/farleyj3/testbin/4
+removed /home/farleyj3/testbin/5
+15 ^[]0;farleyj3@shell:~/bin^G[farleyj3@shell bin]$ ch^H^[[K^H^[[K^Gncs^G205−lab34
+^G−q03.sh farleyj3
+Login name: farleyj3
+Name: James Farley
+UID: 211107
+Home directory: /home/farleyj3
+20 Last Login: Mar 28 19:28 still
+^[]0;farleyj3@shell:~/bin^G[farleyj3@shell bin]$ ncs^G205−lab3q^H^[[K4^G−q04.sh
+n^H^[[K~/bin/ncs^G205−lab34^G−q^G04.sh
+backups is already made
+^[]0;farleyj3@shell:~/bin^G[farleyj3@shell bin]$ ls ~/b^H^[[Kv^H^[[Kbackups/
+ncs205−lab34−q04.sh−210328:1932 test−210327:2344
+25 test−210327:2106 test.txt−210327:2357
+^[]0;farleyj3@shell:~/bin^G[farleyj3@shell bin]$ exit
+exit
+Script done on Sun 28 Mar 2021 07:32:27 PM EDT
